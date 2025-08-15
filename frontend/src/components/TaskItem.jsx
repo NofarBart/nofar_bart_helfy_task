@@ -17,7 +17,8 @@ const TaskItem = ({ task, onDelete }) => {
         <div>
             <li className='task-item'>
                 <p><strong>task ID: </strong>{task.id}</p>
-                <input type='text' name='title'></input>
+                {/* tried to do the edit part */}
+                {/* <input type='text' name='title'></input> */}
                 <p><strong>title: </strong>{task.title}</p>
                 <p><strong>description: </strong>{task.description}</p>
                 <label>
