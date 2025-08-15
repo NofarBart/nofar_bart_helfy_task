@@ -6,8 +6,6 @@ const TaskFilter = ({tasks, onDelete}) => {
     const [search, setSearch] = useState("all");
     const filteredTasks = tasks.filter(task => (search === "all") || (search === "completed" && task.completed === true) ||
     (search === "pending" && task.completed === false));
-    // const filteredTasks = tasks.filter(task => task.name.toLowerCase().includes(search.toLowerCase()) ||
-    // task.person.toLowerCase().includes(search.toLowerCase()))
 
     return (
         <div>
