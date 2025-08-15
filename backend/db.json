@@ -1,0 +1,68 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "codding",
+      "description": "Hi!!!",
+      "completed": true,
+      "createdAt": "8/15/2025, 5:42:10 PM",
+      "priority": "high"
+    },
+    {
+      "id": 1755014707083,
+      "title": "eat",
+      "description": "Hi!!!",
+      "completed": false,
+      "createdAt": "8/15/2025, 5:42:10 PM",
+      "priority": "high"
+    },
+    {
+      "id": 5,
+      "title": "Buy groceries",
+      "description": "Hi!!!",
+      "completed": true,
+      "createdAt": "8/15/2025, 5:42:10 PM",
+      "priority": "medium"
+    },
+    {
+      "id": 2,
+      "title": "Team meeting",
+      "description": "Hi!!!",
+      "completed": true,
+      "createdAt": "8/15/2025, 5:42:10 PM",
+      "priority": "high"
+    },
+    {
+      "id": 3,
+      "title": "Doctor appointment",
+      "description": "Hi!!!",
+      "completed": false,
+      "createdAt": "8/15/2025, 5:42:10 PM",
+      "priority": "high"
+    },
+    {
+      "id": 4,
+      "title": "Send invoices",
+      "description": "Hi!!!",
+      "completed": false,
+      "createdAt": "8/15/2025, 5:42:10 PM",
+      "priority": "low"
+    },
+    {
+      "id": 1755087165346,
+      "title": "fun",
+      "description": "Hi!!!",
+      "completed": true,
+      "createdAt": "8/15/2025, 5:42:10 PM",
+      "priority": "low"
+    },
+    {
+      "id": 1755087165347,
+      "title": "fixing priority",
+      "description": "my fix for priority",
+      "completed": false,
+      "createdAt": "15.8.2025, 13:30:47",
+      "priority": "medium"
+    }
+  ]
+}
