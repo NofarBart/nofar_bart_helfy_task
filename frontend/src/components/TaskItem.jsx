@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
 import Axios from "axios";
-import PriorityColor from '../pages/PriorityColor';
+import PriorityColor from '../services/PriorityColor';
 import '../App.css';
 
 const TaskItem = ({ task, onDelete }) => {
